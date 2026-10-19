@@ -1,0 +1,26 @@
+{
+  "name": "app-apm-latency-guard",
+  "version": "1.0.0",
+  "description": "Application Performance Monitoring (APM) latency tracer, anomaly detector, and p95/p99 percentile window tracker",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/apm.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "apm",
+    "latency",
+    "percentiles",
+    "p99",
+    "anomaly-detection",
+    "telemetry",
+    "observability"
+  ],
+  "author": "Felipe Madson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "typescript": "5.7.2"
+  }
+}
