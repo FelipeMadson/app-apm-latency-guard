@@ -11,4 +11,4 @@ Monitor de desempenho de aplicações (APM) para análise de latência em tempo 
 
 ## Licença
 
-MIT © [Felipe Madson](https://github.com/FelipeMadson)
+MIT © [Felipe Madison](https://github.com/FelipeMadson)
